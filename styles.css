@@ -1,0 +1,57 @@
+
+.flex-container{
+    font-size: 22px;
+    width: auto;
+    margin: auto;
+    max-width: 960px;
+}
+.flex-container header {
+    text-align: center;
+    margin: 10px;
+    font-size: 3em;
+  }
+  .flex-container h1 {
+    margin: 0.2em;
+  }
+.flex-container img{
+    text-align: center;
+    width: 95%;
+    margin: 0;
+    position: relative;
+}
+.flex-container nav{
+    text-align: center;
+    font-size: 1.8em;
+    margin: 12px auto;
+  }
+.flex-container a{
+    color: black;
+    text-decoration: none;
+}
+.flex-container a:hover{
+    color: green;
+}
+.flex-container main {
+    font-size: 1.2em;
+  }
+.flex-container li{
+    font-style: italic;
+}
+  .flex-container h2 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.2em;
+    margin: 1em;
+  }
+  .flex-container ul {
+    margin: 1em;
+  }
+.flex-container p{
+    margin: 1em;
+}
+.flex-container em{
+    font-style: italic;
+}
+.flex-container strong{
+    font-weight: bold;
+} 
